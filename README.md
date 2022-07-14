@@ -6,4 +6,7 @@ Custom datasets can also be used provided the path is correct.
 			
 
 in order to test video, run the last snippet but do not change the main code. 
+
+
+
 download the video from exp to see obstacle detection in the dataset provided.
